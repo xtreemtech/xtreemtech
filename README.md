@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xtreemtech
-- 👀 I’m interested in React,Javascript,html-css
-- 🌱 I’m currently learning C-programming language 
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning alx Software engineering course
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my email- visitmrdaniel@gmail.com 
+- 📫 Reach me through my email- visitmrdaniel@gmail.com 
 
 <!---
 xtreemtech/xtreemtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
